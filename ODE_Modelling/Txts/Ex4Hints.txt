@@ -1,0 +1,8 @@
+- Hint 1: One way to represent your 2D parameter sweep is with the ax.imshow() function. 
+
+- Hint 2: You may find it convenient to wrap your call to solve_ivp() in a function that takes in a particular pair 
+of $N_0$ and $T_0$ values and returns the end monoculture vs. co-culture population size ratio. This function can 
+then be repeatedly called from within a pair of nested for loops that generate the values of $N_0$ and $T_0$.
+
+- Hint 3: To ensure that a 2-fold decrease in the co-culture:monoculture ratio is represented equally to a 2-fold 
+increase, you may wish to log-transform your final ratios (e.g. log_2(2/1) = -log_2(1/2)). 

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="LV_StockAndFlow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45858771"
+     inkscape:cx="53.424894"
+     inkscape:cy="198.43532"
+     inkscape:window-width="1500"
+     inkscape:window-height="930"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="42.521854"
+       y="215.88018"
+       width="218.0608"
+       height="118.84313"
+       id="rect25589" />
+    <rect
+       x="151.87938"
+       y="111.01843"
+       width="150.33746"
+       height="84.034784"
+       id="rect4167" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1450" />
+    </marker>
+    <rect
+       x="151.87938"
+       y="111.01843"
+       width="223.57879"
+       height="71.699401"
+       id="rect4167-9" />
+    <rect
+       x="42.521854"
+       y="215.88017"
+       width="218.06081"
+       height="118.84313"
+       id="rect25589-7" />
+    <rect
+       x="42.521854"
+       y="215.88017"
+       width="218.06081"
+       height="118.84313"
+       id="rect25589-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g41002"
+       inkscape:export-filename="C:\Users\olijm\Dropbox\Twork\Lecture materials\NCCR_ODEcourse\Figs\LV_StockFlow.png"
+       inkscape:export-xdpi="141.02299"
+       inkscape:export-ydpi="141.02299">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.986143;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect40872"
+         width="183.4709"
+         height="87.119827"
+         x="5.1925726"
+         y="12.116003" />
+      <circle
+         style="fill:#00ff00;stroke:#000000;stroke-width:0.899999"
+         id="path846"
+         cx="55.6875"
+         cy="40.388737"
+         r="16.930632" />
+      <circle
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.899999"
+         id="path846-9"
+         cx="134.42514"
+         cy="40.388737"
+         r="16.930632" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+         d="m 38.571326,37.536912 c 0,0 -14.170915,-13.775708 -21.551227,-9.266239 -7.380313,4.509468 -7.3815909,15.826332 -0.288476,20.481814 7.093115,4.655481 20.700294,-4.257149 20.700294,-4.257149"
+         id="path1188"
+         sodipodi:nodetypes="czzc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+         d="m 55.483516,57.931319 c 0,0 21.704424,30.784646 40.388737,31.005492 18.684307,0.220846 34.269227,-32.229393 34.269227,-32.229393"
+         id="path1973"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 118.7679,47.889118 c 0,0 -32.854268,17.004392 -33.094824,29.624617 -0.240556,12.620225 9.58722,11.423076 9.58722,11.423076"
+         id="path2164"
+         sodipodi:nodetypes="czc" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-4.7989881,2.4025396)"
+         id="text4165"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4167);fill:#000000;fill-opacity:1;stroke:none"
+         x="97.5"
+         y="0"><tspan
+           x="176.14941"
+           y="141.51079"
+           id="tspan41044"><tspan
+             style="font-weight:bold;line-height:0.95;text-align:center;text-anchor:middle"
+             id="tspan41042">Prey
+</tspan></tspan><tspan
+           x="203.63636"
+           y="169.34641"
+           id="tspan41052"><tspan
+             style="font-size:26.6667px"
+             id="tspan41046">(</tspan><tspan
+             style="font-style:italic;font-size:26.6667px;text-align:center;text-anchor:middle"
+             id="tspan41048">x</tspan><tspan
+             style="font-size:26.6667px"
+             id="tspan41050">)</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,64.44776,1.6031368)"
+         id="text4165-6"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4167-9);fill:#000000;fill-opacity:1;stroke:none"
+         x="51.104084"
+         y="0"><tspan
+           x="211.39819"
+           y="135.34642"
+           id="tspan41058"><tspan
+             style="font-weight:bold;text-align:center;text-anchor:middle"
+             id="tspan41054">Predator</tspan><tspan
+             style="font-size:26.6667px"
+             id="tspan41056">
+</tspan></tspan><tspan
+           x="240.49834"
+           y="168.67979"
+           id="tspan41066"><tspan
+             style="font-size:26.6667px"
+             id="tspan41060">(</tspan><tspan
+             style="font-style:italic;font-size:26.6667px;text-align:center;text-anchor:middle"
+             id="tspan41062">y</tspan><tspan
+             style="font-size:26.6667px"
+             id="tspan41064">)</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+         d="m 151.45003,40.675152 h 20.48182"
+         id="path8282" />
+      <g
+         id="g8527"
+         transform="matrix(0.67979609,0,0,0.67979609,56.624296,12.730187)">
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path8306"
+           cx="180.44189"
+           cy="41.107864"
+           rx="3.8944294"
+           ry="8.2215738" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 174.52813,48.608246 186.35566,33.607482"
+           id="path8443" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.38757056,-40.675152)"
+         id="text25587"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25589);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="42.521484"
+           y="235.34388"
+           id="tspan41070"><tspan
+             style="font-weight:bold"
+             id="tspan41068">Reproduction</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,69.88034,32.486238)"
+         id="text25587-1"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25589-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="42.521484"
+           y="235.34388"
+           id="tspan41074"><tspan
+             style="font-weight:bold"
+             id="tspan41072">Predation</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,142.28789,-27.516824)"
+         id="text25587-0"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25589-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="42.521484"
+           y="235.34388"
+           id="tspan41078"><tspan
+             style="font-weight:bold"
+             id="tspan41076">Death</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

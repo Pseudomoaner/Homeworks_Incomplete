@@ -1,0 +1,59 @@
+#Define a function that takes in an initial nutrient and toxin concentration and outputs the ratio
+#of final growth of one species, comparing between a monoculture simulation and a co-culture simulation
+#with these starting concentrations.
+
+def findCocultMonocultEndRatio(N0,T0):
+    #Part 1: Monoculture baseline simulation
+    #Parameter settings
+    f = ...
+
+    inArgs = ...
+
+    #Initial conditions (initial size of the population and nutrient and toxin concentrations)
+    initConds = ...
+
+    #Time settings for the solver
+    tSteps = np.arange(...)
+
+    #Run numerical integration - Use your multi-species model as defined for exercise 3 as the ODE system
+    solPiccardiOneSpec = solve_ivp(...)
+    
+    #Part 2: Co-culture simulation
+    #Parameter settings (identical in value to settings for monoculture, but may need to be duplicated
+    #depending on how you have implemented the multi-species ODEs)
+    f = ...
+    
+    inArgs = ...
+    
+    initConds = ...
+    
+    #Numerical integration can be run using the single species model defined for exercise 2 as your ODE system
+    solPiccardiOneSpec = solve_ivp(...)
+    
+    #Find the log_2 of the ratio between the final population sizes in the co-culture and monoculture simulations
+    return math.log2(...)
+
+#Define the toxin and nutrient concentrations you will sweep over
+T0s = np.arange(...) #Initial toxin concentrations
+N0s = np.arange(...) #Initial nutrient concentrations
+
+noSweepVals = ... #Number of values in each direction you will sweep over
+
+#Initialise storage matrix which will contain the log_2 ratios for each pair of simulations
+sweepResults = np.zeros([noSweepVals,noSweepVals])
+
+for i in range(0,noSweepVals):
+    for j in range(0,noSweepVals):
+        #Use the findCocultMonocultEndRatio function (defined above) to find the end coculture:monoculture
+        #population ratio for each pair of values of T0 and N0
+
+#Run plotting of the results of the parameter sweep
+figPic, ax = plt.subplots()
+
+#Show results of parameter sweep as an image
+sweepImg = ax.imshow(...)
+
+#Label axes using Latex syntax, and apply colourbar
+plt.xlabel('$[N]_0$')
+plt.ylabel('$[T]_0$')
+figPic.colorbar(sweepImg)
